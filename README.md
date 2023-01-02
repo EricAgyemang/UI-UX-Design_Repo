@@ -2,7 +2,7 @@
 
 # Human Factors In Information Systems.
 
-** Description: 
+# Description: 
 
 This course provides students with an overview of human factors issues in developing a user interface. 
 The production of a high-quality interface requires the developers to match the human/computer interface of information systems
