@@ -1,2 +1,3 @@
-# UI-UX-Design_Repo
-User Interface/User Experience Design (UI/UX-Design); ISU-IT467
+# User Interface/User Experience Design (UI/UX-Design); ISU-IT467
+
+# Human Factors In Information Systems
