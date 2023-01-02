@@ -1,6 +1,3 @@
-*.xd linguist-detectable=true
-lib
-
 # Logs
 logs
 *.log
