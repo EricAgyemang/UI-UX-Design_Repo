@@ -1,0 +1,91 @@
+Baseline eagyem2	
+Ordered by	Eric Agyemang (eagyem2@ilstu.edu)
+Order date	"Oct 23 2022, 10:49am PDT"
+Number of contributors	1
+Starting URL	http://www2.pnwx.com/
+Introduction	"Assume you are a worker in the healthcare industry and you are in need of portable radiographic, cabinetry, eyewear, gloves, aprons, and other related products and you received an email from your manager telling you to check out this site to help you decide if this distribution company might work for your needs."
+	
+Username	forusertestingat
+Test ID #	4313201A
+Completed date/time	"Oct 23 2022, 11:15am PDT"
+Video	https://app.usertesting.com/v/bb2269fa-40d4-4263-80e8-22d29bf7a77b
+	
+Contributor demographics	
+Device	Computer
+Age	38
+Annual household income	"$60,000 - $79,999"
+Gender	Male
+Country	United States
+Web expertise	Advanced
+Operating system	Windows 10 64-bit 
+Web browser	Chrome
+Social networking	"Facebook, Twitter, Linkedin"
+Other requirement	
+Employment status	"Not employed, looking for work"
+Job function	Information technology
+Seniority	Manager
+Company size	"5001-10,000 employees"
+Industry	Information Technology and Services
+	
+Session summary	
+	
+Contributor system Info	
+Browser version	Chrome
+Color depth	24
+CPU	Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+Free disk space	0.0 MB
+Free memory (RAM)	2244.11 MB
+Operating system (OS)	Windows 10 64-bit 
+Screen resolution (in pixels)	1280 x 720
+0.3.342	
+Total memory	8078.24 MB
+	
+Task 1	
+Launch URL: http://www2.pnwx.com/	
+"Looking over this page, what three words would you use to describe the LOOK and FEEL of the page?"	
+	
+Task 2	
+"(Don’t click on anything yet). Tell us what type of tasks do you think you could do on the Home page ?
+link is provided: http://www2.pnwx.com/"	
+	
+Task 3	
+Launch URL: http://www2.pnwx.com/Accessories/LeadProducts/Aprons/Infab/LightningFast/	
+What are your general thoughts about the list of choices in the navigation across the top of the page?	
+	
+Task 4	
+Launch URL: http://www2.pnwx.com/Accessories/LeadProducts/Aprons/Infab/LightningFast/	
+(Don’t click on anything yet but just tell us what you expect to find).  What do you expect to find if you click on the list of payment options provided at the bottom left corner of this page ?	
+	
+Task 5	
+(Go ahead and click on the the payment options link.)  How does this match what you expected to find?	
+	
+Task 6	
+"How do you see the page layout/design and general organization of items on the ""Accessories"" page ? 
+Link is provided:  http://www2.pnwx.com/Accessories/"	
+	
+Task 7	
+"Looking over the pages, how easy are you able to navigate back and forth from one page to the other?"	
+	
+Task 8	
+Launch URL: http://www2.pnwx.com/Accessories/LeadProducts/Aprons/TechnoAideFlex/	
+"(Don’t click on anything yet when you  go to the provided link's page, but just tell us what you expect to find.) 
+What do you expect to find if you click on the ""Telephone"" and ""Phone"" options provided at the bottom of this page ?"	
+	
+Task 9	
+"(Go ahead and click on the ""Telephone"" and ""Phone"" options on the page.)  How does this match what you expected to find?"	
+	
+Task 10	
+Where would you go to find information on payment if you want to purchase any of the products listed on the pages  ?	
+	
+Task 11	
+What is the email address for Pacific Northwest X-Ray Inc. ?	
+	
+Task 12	
+What could make the pages have better design ?	
+	
+	
+Post-test questionnaire	
+What frustrated you most about this site?	The look and feel
+"If you had a magic wand, how would you improve this site?"	I will make the look and feel authentic and modern. Navigation easier
+What did you like about the site?	Nothing
+"How likely are you to recommend this site to a friend or colleague (0=Not at all likely, and 10=Very likely)?"	0
